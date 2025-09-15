@@ -34,9 +34,9 @@ I focus on building reliable applications with .NET MAUI, ASP.NET Core, and mode
 
 ## 🚀 Projects
 **[Project Linkage App](https://github.com/cuadravan/project-linkage-maui-desktop)** – A .NET MAUI application connecting project owners and skill providers with project management, user profiles, and real-time messaging.  
-**[Autonomous Pesticide Sprayer Robot](https://github.com/cuadravan/raspi-pesticide-sprayer-robot)** – An embedded systems project to automate pesticide spraying using Raspberry Pi 4. 
-
-Check out my pinned repositories for more.
+**[Autonomous Pesticide Sprayer Robot](https://github.com/cuadravan/raspi-pesticide-sprayer-robot)** – An embedded systems project to automate pesticide spraying using Raspberry Pi 4.  
+**[Line Follower Robot with Color Detection](https://github.com/cuadravan/pic16f877a-line-follower-color-detection)** – An embedded systems project that combines line following with color detection to change its behavior using PIC16F877A.  
+**Urban Green Space Management GIS Desktop App using AI** – A desktop GIS app built with PySide6, TensorFlow, and Google Earth Engine Python API to analyze urban green spaces from satellite imagery. ⚠️ Note: This repository is private as it contains work from our completed academic research and cannot be shared publicly.
 
 ---
 
