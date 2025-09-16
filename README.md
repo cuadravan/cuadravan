@@ -7,9 +7,9 @@
 ## About Me
 I’m a Computer Engineering student with a strong foundation in both software and hardware, bringing a systems-level perspective to software development.
 
-I build reliable applications using .NET MAUI and ASP.NET Core, with experience deploying secure, cloud-based solutions on Microsoft Azure. My work includes designing Web APIs with Azure SQL Database backends and publishing them to Azure App Service, enabling mobile and cross-platform integration.
+I build reliable applications using .NET MAUI and ASP.NET Core, with experience deploying secure, cloud-based solutions on Microsoft Azure. My work includes designing Web APIs with Azure SQL Database backends and publishing them to Azure App Service, enabling mobile and cross-platform integration. I also have experience developing in other GUI frameworks like PySide6, Java Swing, and WinForms.
 
-I’m also expanding into front-end web development while strengthening my skills in modern programming practices, cloud services, and database systems.
+I’m expanding into front-end web development while strengthening my skills in modern programming practices, cloud services, and database systems.
 
 ---
 
