@@ -5,8 +5,11 @@
 ---
 
 ## About Me
-I’m a Computer Engineering student with a strong foundation in both software and hardware, bringing a systems-level perspective to software development.  
-I focus on building reliable applications with .NET MAUI, ASP.NET Core, and modern programming practices, while expanding into front-end web development.  
+I’m a Computer Engineering student with a strong foundation in both software and hardware, bringing a systems-level perspective to software development.
+
+I build reliable applications using .NET MAUI and ASP.NET Core, with experience deploying secure, cloud-based solutions on Microsoft Azure. My work includes designing Web APIs with Azure SQL Database backends and publishing them to Azure App Service, enabling mobile and cross-platform integration.
+
+I’m also expanding into front-end web development while strengthening my skills in modern programming practices, cloud services, and database systems.
 
 ---
 
@@ -25,6 +28,7 @@ I focus on building reliable applications with .NET MAUI, ASP.NET Core, and mode
 ![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=.net&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 **Currently Learning/Practicing:**   
@@ -37,7 +41,7 @@ I focus on building reliable applications with .NET MAUI, ASP.NET Core, and mode
 **[Autonomous Pesticide Sprayer Robot](https://github.com/cuadravan/raspi-pesticide-sprayer-robot)** – An embedded systems project to automate pesticide spraying using Raspberry Pi 4.  
 **[Line Follower Robot with Color Detection](https://github.com/cuadravan/pic16f877a-line-follower-color-detection)** – An embedded systems project that combines line following with color detection to change its behavior using PIC16F877A.  
 **Urban Green Space Management GIS Desktop App using AI** – A desktop GIS app built with PySide6, TensorFlow, and Google Earth Engine Python API to analyze urban green spaces from satellite imagery. ⚠️ Note: This repository is private as it contains work from our completed academic research and cannot be shared publicly.  
-**Mobile App with Backend Server** – A mobile application built with .NET MAUI, ASP.NET Core Web API, EF Core, and SQLite. ⚠️ Note: This repository is private as it is covered under an NDA for my internship project.
+**Mobile App with Backend Server** – A mobile application developed using .NET MAUI with a backend powered by ASP.NET Core Web API, Entity Framework Core, and Azure SQL Database. The API was deployed to Azure App Service to enable secure cloud integration. ⚠️ Note: This repository is private as it is covered under an NDA for my internship project.
 
 ---
 
