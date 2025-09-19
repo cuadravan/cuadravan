@@ -48,7 +48,7 @@ I’m expanding into front-end web development while strengthening my skills in 
 **[Project Linkage App](https://github.com/cuadravan/project-linkage-maui-desktop)** – A .NET MAUI application connecting project owners and skill providers with project management, user profiles, and real-time messaging.  
 **[Autonomous Pesticide Sprayer Robot](https://github.com/cuadravan/raspi-pesticide-sprayer-robot)** – An embedded systems project to automate pesticide spraying using Raspberry Pi 4.  
 **[Line Follower Robot with Color Detection](https://github.com/cuadravan/pic16f877a-line-follower-color-detection)** – An embedded systems project that combines line following with color detection to change its behavior using PIC16F877A.  
-**Urban Green Space Management GIS Desktop App using AI** – A desktop GIS app built with PySide6, TensorFlow, and Google Earth Engine Python API to analyze urban green spaces from satellite imagery. ⚠️ Note: This repository is private as it contains work from our completed academic research and cannot be shared publicly.  
+**Urban Green Space Management GIS Desktop App using AI** – A desktop GIS app built with PySide6, TensorFlow, and Google Earth Engine API to analyze urban green spaces from satellite imagery. ⚠️ Note: This repository is private as it contains work from our completed academic research and cannot be shared publicly.  
 **Mobile App with Backend Server** – A mobile application developed using .NET MAUI with a backend powered by ASP.NET Core Web API, Entity Framework Core, and Azure SQL Database. The API was deployed to Azure App Service to enable secure cloud integration. ⚠️ Note: This repository is private as it is covered under an NDA for my internship project.
 
 ---
