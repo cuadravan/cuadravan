@@ -53,14 +53,3 @@ I’m expanding into front-end web development while strengthening my skills in 
 **[Line Follower Robot with Color Detection](https://github.com/cuadravan/pic16f877a-line-follower-color-detection)** – An embedded systems project that combines line following with color detection to change its behavior using PIC16F877A.  
 **Urban Green Space Management GIS Desktop App using AI** – A desktop GIS app built with PySide6, TensorFlow, and Google Earth Engine API to analyze urban green spaces from satellite imagery. ⚠️ Note: This repository is private as it contains work from our completed academic research and cannot be shared publicly.  
 **Mobile App with Backend Server** – A mobile application developed using .NET MAUI with a backend powered by ASP.NET Core Web API, Entity Framework Core, and Azure SQL Database. The API was deployed to Azure App Service to enable secure cloud integration. ⚠️ Note: This repository is private as it is covered under an NDA for my internship project.
-
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vankristiancuadra/) 
-✉️ Email: cuadravan@gmail.com  
-
----
-
-## ⚡ Fun Fact
-I love reading epic fantasy books, especially The Stormlight Archive by Brandon Sanderson.
