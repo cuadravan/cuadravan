@@ -1,19 +1,44 @@
-# Hi there 👋, I'm Van Kristian Cuadra
+# Hi there, I'm Van Kristian Cuadra
 
-💻 Computer Engineering Student
+Computer Engineering Student | Aspiring Software Engineer
 
 ---
 
 ## About Me
-I’m a Computer Engineering student with a strong foundation in both software and hardware, bringing a systems-level perspective to software development.
 
-I build reliable applications using .NET MAUI and ASP.NET Core, with experience deploying secure, cloud-based solutions on Microsoft Azure. My work includes designing Web APIs with Azure SQL Database backends and publishing them to Azure App Service. I also have experience developing in other GUI frameworks like PySide6, Java Swing, and WinForms.
+I’m a **Computer Engineering student** focusing on building **end-to-end applications** with **.NET** and **Microsoft Azure**. I work across software, hardware, and cloud systems to create practical, reliable solutions.
 
-I’m expanding into front-end web development while strengthening my skills in modern programming practices, cloud services, and database systems.
+### **What I work on / am working on:**
+
+#### **A. Software Development**
+
+* **.NET Full-Stack Development** – Cross-platform applications using .NET MAUI and ASP.NET Core Web APIs (MongoDB Atlas). *(Currently working on this)*
+* **Web Development** – Simple HTML/CSS/JS projects (e.g., decimal to binary converter, weather app) for practicing frontend fundamentals. *(Currently working on this)*
+* **GUI Development** – PySide6, Java Swing, WinForms.
+
+#### **B. Data, Machine Learning, and Geospatial Systems**
+
+* **GIS & Machine Learning** – Government-approved vegetation health, urban development trend, and land cover analysis using Python and Google Earth Engine.
+
+#### **C. Embedded Systems and Low-Level Programming**
+
+* **Embedded Systems & Robotics** – Autonomous sprayer robot software on Raspberry Pi, and a line follower robot with color detection on PIC16F877A.
+* **Operating Systems Concepts** – C implementations of CPU scheduling algorithms, dining philosophers, and producer–consumer synchronization.
+* **8086 Assembly** – Low-level register and memory manipulation using Intel 8086 assembly.
+
+#### **D. Cloud and Deployment**
+
+* **Cloud Deployment** – Azure App Service and cloud-integrated backend systems. *(Currently working on this)*
+
+#### **E. Algorithms and Problem-Solving**
+
+* **Algorithm & DSA Practice** – Ongoing problem-solving on LeetCode to strengthen data structures, algorithms, and computational thinking. *(Currently working on this)*
+
+In short, I enjoy working with computers from hardware to software and to everything that's in between.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 **Languages:**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -47,9 +72,19 @@ I’m expanding into front-end web development while strengthening my skills in 
 
 ---
 
-## 🚀 Projects
-**[Project Linkage App](https://github.com/cuadravan/project-linkage-maui-desktop)** – A .NET MAUI application connecting project owners and skill providers with project management, user profiles, and real-time messaging.  
-**[Autonomous Pesticide Sprayer Robot](https://github.com/cuadravan/raspi-pesticide-sprayer-robot)** – An embedded systems project to automate pesticide spraying using Raspberry Pi 4.  
-**[Line Follower Robot with Color Detection](https://github.com/cuadravan/pic16f877a-line-follower-color-detection)** – An embedded systems project that combines line following with color detection to change its behavior using PIC16F877A.  
-**Urban Green Space Management GIS Desktop App using AI** – A desktop GIS app built with PySide6, TensorFlow, and Google Earth Engine API to analyze urban green spaces from satellite imagery. ⚠️ Note: This repository is private as it contains work from our completed academic research and cannot be shared publicly.  
-**Mobile App with Backend Server** – A mobile application developed using .NET MAUI with a backend powered by ASP.NET Core Web API, Entity Framework Core, and Azure SQL Database. The API was deployed to Azure App Service to enable secure cloud integration. ⚠️ Note: This repository is private as it is covered under an NDA for my internship project.
+## Projects
+
+### Software
+* **[Project Linkage App](https://github.com/cuadravan/project-linkage-maui-desktop)** – A .NET MAUI application connecting project owners and skill providers with project management, user profiles, and real-time messaging. **(I am currently working on this)**  
+* **Urban Green Space Management GIS Desktop App using AI** – A desktop GIS app built with PySide6, TensorFlow, and Google Earth Engine API to analyze urban green spaces from satellite imagery. ⚠️ Note: This repository is private as it contains work from our completed academic research and cannot be shared publicly.  
+* **Mobile App with Backend Server** – A mobile application developed using .NET MAUI with a backend powered by ASP.NET Core Web API, Entity Framework Core, and Azure SQL Database. The API was deployed to Azure App Service to enable secure cloud integration. ⚠️ Note: This repository is private as it is covered under an NDA for my internship project.
+
+### Hardware
+* **[Autonomous Pesticide Sprayer Robot](https://github.com/cuadravan/raspi-pesticide-sprayer-robot)** – An embedded systems project to automate pesticide spraying using Raspberry Pi 4.  
+* **[Line Follower Robot with Color Detection](https://github.com/cuadravan/pic16f877a-line-follower-color-detection)** – An embedded systems project that combines line following with color detection to change its behavior using PIC16F877A.
+
+---
+
+## Connect With Me
+* Email: cuadravan@gmail.com
+* LinkedIn: https://www.linkedin.com/in/vankristiancuadra/  
