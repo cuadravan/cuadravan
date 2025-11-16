@@ -87,4 +87,4 @@ In short, I enjoy working with computers from hardware to software and to everyt
 
 ## Connect With Me
 * Email: cuadravan@gmail.com
-* LinkedIn: https://www.linkedin.com/in/vankristiancuadra/  
+* LinkedIn: www.linkedin.com/in/vankristiancuadra
