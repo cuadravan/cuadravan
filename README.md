@@ -75,7 +75,7 @@ In short, I enjoy working with computers from hardware to software and to everyt
 ## Projects
 
 ### Software
-* **[Project Linkage App](https://github.com/cuadravan/project-linkage-maui-desktop)** – A .NET MAUI application connecting project owners and skill providers with project management, user profiles, and real-time messaging. **(I am currently working on this)**  
+* **[Project Linkage App](https://github.com/cuadravan/PLinkage)** – PLinkage - A full-stack cross-platform app system connecting project owners and skill providers, featuring project posting, user profiles, messaging, location-based matching, and contract tracking.  
 * **Urban Green Space Management GIS Desktop App using AI** – A desktop GIS app built with PySide6, TensorFlow, and Google Earth Engine API to analyze urban green spaces from satellite imagery. ⚠️ Note: This repository is private as it contains work from our completed academic research and cannot be shared publicly.  
 * **Mobile App with Backend Server** – A mobile application developed using .NET MAUI with a backend powered by ASP.NET Core Web API, Entity Framework Core, and Azure SQL Database. The API was deployed to Azure App Service to enable secure cloud integration. ⚠️ Note: This repository is private as it is covered under an NDA for my internship project.
 
