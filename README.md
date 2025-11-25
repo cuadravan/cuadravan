@@ -8,12 +8,12 @@ Computer Engineering Student | Aspiring Software Engineer
 
 I’m a **Computer Engineering student** focusing on building **end-to-end applications** with **.NET** and **Microsoft Azure**. I work across software, hardware, and cloud systems to create practical, reliable solutions.
 
-### **What I work on / am working on:**
+### **What I work on:**
 
 #### **A. Software Development**
 
-* **.NET Full-Stack Development** – Cross-platform applications using .NET MAUI and ASP.NET Core Web APIs (MongoDB Atlas). *(Currently working on this)*
-* **Web Development** – Simple HTML/CSS/JS projects (e.g., decimal to binary converter, weather app) for practicing frontend fundamentals. *(Currently working on this)*
+* **.NET Full-Stack Development** – Cross-platform applications using .NET MAUI and ASP.NET Core Web APIs (MongoDB Atlas).
+* **Web Development** – Simple HTML/CSS/JS projects (e.g., decimal to binary converter, weather app) for practicing frontend fundamentals.
 * **GUI Development** – PySide6, Java Swing, WinForms.
 
 #### **B. Data, Machine Learning, and Geospatial Systems**
@@ -28,11 +28,11 @@ I’m a **Computer Engineering student** focusing on building **end-to-end appli
 
 #### **D. Cloud and Deployment**
 
-* **Cloud Deployment** – Azure App Service and cloud-integrated backend systems. *(Currently working on this)*
+* **Cloud Deployment** – Azure App Service and cloud-integrated backend systems. 
 
 #### **E. Algorithms and Problem-Solving**
 
-* **Algorithm & DSA Practice** – Ongoing problem-solving on LeetCode to strengthen data structures, algorithms, and computational thinking. *(Currently working on this)*
+* **Algorithm & DSA Practice** – Ongoing problem-solving on LeetCode to strengthen data structures, algorithms, and computational thinking. 
 
 In short, I enjoy working with computers from hardware to software and to everything that's in between.
 
@@ -75,7 +75,7 @@ In short, I enjoy working with computers from hardware to software and to everyt
 ## Projects
 
 ### Software
-* **[Project Linkage App](https://github.com/cuadravan/PLinkage)** – PLinkage - A full-stack cross-platform app system connecting project owners and skill providers, featuring project posting, user profiles, messaging, location-based matching, and contract tracking.  
+* **[Project Linkage](https://github.com/cuadravan/PLinkage)** – A full-stack cross-platform app system connecting project owners and skill providers, featuring project posting, user profiles, messaging, location-based matching, and contract tracking.  
 * **Urban Green Space Management GIS Desktop App using AI** – A desktop GIS app built with PySide6, TensorFlow, and Google Earth Engine API to analyze urban green spaces from satellite imagery. ⚠️ Note: This repository is private as it contains work from our completed academic research and cannot be shared publicly.  
 * **Mobile App with Backend Server** – A mobile application developed using .NET MAUI with a backend powered by ASP.NET Core Web API, Entity Framework Core, and Azure SQL Database. The API was deployed to Azure App Service to enable secure cloud integration. ⚠️ Note: This repository is private as it is covered under an NDA for my internship project.
 
