@@ -2,43 +2,7 @@
 
 Computer Engineering Student | Aspiring Software Engineer
 
----
-
-## About Me
-
-I’m a **Computer Engineering student** focusing on building **end-to-end applications** with **.NET** and **Microsoft Azure**. I work across software, hardware, and cloud systems to create practical, reliable solutions.
-
-### **What I work on:**
-
-#### **A. Software Development**
-
-* **.NET Full-Stack Development** – Cross-platform applications using .NET MAUI and ASP.NET Core Web APIs (MongoDB Atlas).
-* **Web Development** – Simple HTML/CSS/JS projects (e.g., decimal to binary converter, weather app) and simple Angular exercises for practicing frontend fundamentals.
-* **GUI Development** – PySide6, Java Swing, WinForms.
-
-#### **B. Data, Machine Learning, and Geospatial Systems**
-
-* **GIS & Machine Learning** – Government-approved vegetation health, urban development trend, and land cover analysis using Python and Google Earth Engine.
-
-#### **C. Embedded Systems and Low-Level Programming**
-
-* **Embedded Systems & Robotics** – Autonomous sprayer robot software on Raspberry Pi, and a line follower robot with color detection on PIC16F877A.
-* **Operating Systems Concepts** – C implementations of CPU scheduling algorithms, dining philosophers, and producer–consumer synchronization.
-* **8086 Assembly** – Low-level register and memory manipulation using Intel 8086 assembly.
-
-#### **D. Cloud and Deployment**
-
-* **Cloud Deployment** – Azure App Service and cloud-integrated backend systems. 
-
-#### **E. Algorithms and Problem-Solving**
-
-* **Algorithm & DSA Practice** – Ongoing problem-solving on LeetCode to strengthen data structures, algorithms, and computational thinking. 
-
-In short, I enjoy working with computers from hardware to software and to everything that's in between.
-
----
-
-## Tech Stack
+## My Tech Stack
 **Languages:**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -63,6 +27,7 @@ In short, I enjoy working with computers from hardware to software and to everyt
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Databases:**  
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -71,6 +36,40 @@ In short, I enjoy working with computers from hardware to software and to everyt
 
 **Problem Solving & Practice:**  
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+---
+
+## About Me
+
+I’m a **Computer Engineering student** focusing on building **end-to-end applications** with **.NET** and **Microsoft Azure**. I work across software, hardware, and cloud systems to create practical, reliable solutions.
+
+### **What I work on:**
+
+#### **A. Software Development**
+
+* **.NET Full-Stack Development** – Cross-platform applications using .NET MAUI and ASP.NET Core Web APIs (MongoDB Atlas).
+* **Web Development** – Simple HTML/CSS/JS projects (e.g., decimal to binary converter, weather app) and simple Angular exercises for practicing frontend fundamentals.
+* **GUI Development** – PySide6, Java Swing, WinForms.
+
+#### **B. Data, Machine Learning, and Geospatial Systems**
+
+* **GIS & Machine Learning** – Developed and fine-tuned deep learning models (U-Net) using TensorFlow to perform semantic segmentation for land cover classification.
+
+#### **C. Embedded Systems and Low-Level Programming**
+
+* **Embedded Systems & Robotics** – Autonomous sprayer robot software on Raspberry Pi, and a line follower robot with color detection on PIC16F877A.
+* **Operating Systems Concepts** – C implementations of CPU scheduling algorithms, dining philosophers, and producer–consumer synchronization.
+* **8086 Assembly** – Low-level register and memory manipulation using Intel 8086 assembly.
+
+#### **D. Cloud & DevOps**
+* **CI/CD & Cloud Deployment** – Automated deployment pipelines for ASP.NET Core using GitHub Actions targeting Azure App Service, including secure environment variable management.
+* **GIS & Cloud Data Mining** – Leveraged Google Earth Engine to query and process cloud-native geospatial datasets. Implemented Python-based workflows to extract vegetation health and land cover analytics for government-approved urban development studies.
+
+#### **E. Algorithms and Problem-Solving**
+
+* **Algorithm & DSA Practice** – Ongoing problem-solving on LeetCode to strengthen data structures, algorithms, and computational thinking. 
+
+In short, I enjoy working with computers from hardware to software and to everything that's in between.
 
 ---
 
