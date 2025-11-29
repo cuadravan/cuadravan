@@ -85,6 +85,8 @@ In short, I enjoy working with computers from hardware to software and to everyt
 * **[Autonomous Pesticide Sprayer Robot](https://github.com/cuadravan/raspi-pesticide-sprayer-robot)** – An embedded systems project to automate pesticide spraying using Raspberry Pi 4.  
 * **[Line Follower Robot with Color Detection](https://github.com/cuadravan/pic16f877a-line-follower-color-detection)** – An embedded systems project that combines line following with color detection to change its behavior using PIC16F877A.
 
+> These are just some of my projects I'm most proud of. Check out my repositories for more.
+
 ---
 
 ## Connect With Me
