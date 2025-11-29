@@ -13,7 +13,7 @@ I’m a **Computer Engineering student** focusing on building **end-to-end appli
 #### **A. Software Development**
 
 * **.NET Full-Stack Development** – Cross-platform applications using .NET MAUI and ASP.NET Core Web APIs (MongoDB Atlas).
-* **Web Development** – Simple HTML/CSS/JS projects (e.g., decimal to binary converter, weather app) for practicing frontend fundamentals.
+* **Web Development** – Simple HTML/CSS/JS projects (e.g., decimal to binary converter, weather app) and simple Angular exercises for practicing frontend fundamentals.
 * **GUI Development** – PySide6, Java Swing, WinForms.
 
 #### **B. Data, Machine Learning, and Geospatial Systems**
@@ -48,10 +48,12 @@ In short, I enjoy working with computers from hardware to software and to everyt
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 
 **Frameworks & Libraries:**  
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-3776AB?style=for-the-badge&logo=qt&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=.net&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)
