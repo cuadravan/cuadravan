@@ -47,27 +47,28 @@ I’m a **Computer Engineering student** focusing on building **end-to-end appli
 
 #### **A. Software Development**
 
-* **.NET Full-Stack Development** – Cross-platform applications using .NET MAUI and ASP.NET Core Web APIs (MongoDB Atlas).
-* **Web Development** – Simple HTML/CSS/JS projects (e.g., decimal to binary converter, weather app) and simple Angular exercises for practicing frontend fundamentals.
-* **GUI Development** – PySide6, Java Swing, WinForms.
+* **Cross Platform App Development** – Windows and Android application using one ```.NET MAUI``` codebase.
+* **API Backend Server Development** – RESTful API using ```ASP.NET Core Web API```.
+* **Web Development** – Simple ```HTML/CSS/JS``` and ```Angular``` exercises for practicing frontend fundamentals.
+* **Other/Desktop App Development** – Other frameworks I've worked with: ```PySide6```, ```Java Swing```, ```WinForms```.
 
-#### **B. Data, Machine Learning, and Geospatial Systems**
+#### **B. Cloud & DevOps**
+* **CI/CD & Cloud Deployment** – Automate the deployment of my backend API using ```GitHub Actions``` targeting ```Azure App Service```.
+* **GIS & Cloud Data Mining** – Queried and processed cloud-native geospatial datasets on ```Google Earth Engine``` using ```Python``` workflows to extract relevant data for urban management.
 
-* **GIS & Machine Learning** – Developed and fine-tuned deep learning models (U-Net) using TensorFlow to perform semantic segmentation for land cover classification.
+#### **C. AI & Machine Learning**
 
-#### **C. Embedded Systems and Low-Level Programming**
+* **GIS & Machine Learning** – Worked with ```U-Net (deep learning model) using TensorFlow``` to perform semantic segmentation for land cover classification.
 
-* **Embedded Systems & Robotics** – Autonomous sprayer robot software on Raspberry Pi, and a line follower robot with color detection on PIC16F877A.
-* **Operating Systems Concepts** – C implementations of CPU scheduling algorithms, dining philosophers, and producer–consumer synchronization.
-* **8086 Assembly** – Low-level register and memory manipulation using Intel 8086 assembly.
+#### **D. Embedded Systems and Low-Level Programming**
 
-#### **D. Cloud & DevOps**
-* **CI/CD & Cloud Deployment** – Automated deployment pipelines for ASP.NET Core using GitHub Actions targeting Azure App Service, including secure environment variable management.
-* **GIS & Cloud Data Mining** – Leveraged Google Earth Engine to query and process cloud-native geospatial datasets. Implemented Python-based workflows to extract vegetation health and land cover analytics for government-approved urban development studies.
+* **Embedded Systems & Robotics** – Autonomous sprayer robot software on ```Raspberry Pi 4```, and a line follower robot with color detection on ```PIC16F877A```.
+* **Operating Systems Concepts** – ```C``` implementations of CPU scheduling algorithms, dining philosophers, and producer–consumer synchronization.
+* **8086 Assembly** – Low-level register and memory manipulation using ```Intel 8086 assembly```.
 
 #### **E. Algorithms and Problem-Solving**
 
-* **Algorithm & DSA Practice** – Ongoing problem-solving on LeetCode to strengthen data structures, algorithms, and computational thinking. 
+* **Algorithm & DSA Practice** – Ongoing problem-solving on ```LeetCode``` to strengthen data structures, algorithms, and computational thinking. 
 
 In short, I enjoy working with computers from hardware to software and to everything that's in between.
 
