@@ -41,7 +41,7 @@ Computer Engineer
 
 ## About Me
 
-I’m a **Computer Engineering student** focusing on building **end-to-end applications** with **.NET** and **Microsoft Azure**. I work across software, hardware, and cloud systems to create practical, reliable solutions.
+I’m a **Computer Engineer** focusing on building **end-to-end applications** with **.NET** and **Microsoft Azure**. I work across software, hardware, and cloud systems to create practical, reliable solutions.
 
 ### **What I work on:**
 
