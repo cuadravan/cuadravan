@@ -1,6 +1,6 @@
 # Hi there, I'm Van Kristian Cuadra
 
-Computer Engineering Student | Aspiring Software Engineer
+Computer Engineer
 
 ## My Tech Stack
 **Languages:**  
