@@ -1,6 +1,6 @@
 # Hi there, I'm Van Kristian Cuadra
 
-Computer Engineer
+Computer Engineer (Magna Cum Laude) | Software Development (.NET, Web APIs) | Cloud, DevOps | Deep Learning, AI | Hardware Engineering, Embedded Systems
 
 ## My Tech Stack
 **Languages:**  
