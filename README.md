@@ -1,7 +1,5 @@
 # Hi there, I'm Van Kristian Cuadra
 
-Computer Engineer (Magna Cum Laude, University-wide Rank 1) | Software Development (.NET, Web APIs) | Cloud, DevOps | Deep Learning, AI | Hardware Engineering, Embedded Systems
-
 ## My Tech Stack
 **Languages:**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
