@@ -86,19 +86,6 @@ In short, I enjoy working with computers from hardware to software and to everyt
 > These are just some of my projects I'm most proud of. Check out my repositories for more.
 
 ---
-
-## Certifications
-
-| Certificate | Issuer | Date | Verification |
-| :--- | :--- | :--- | :--- |
-| **Advanced Commands in Linux** | Coursera | Dec 2024 | [Verify Certificate](https://coursera.org/share/bd25d018c60436e2cee316085fc1029a) |
-| **Linux Fundamentals** | LearnQuest (via Coursera) | Dec 2024 | [Verify Certificate](https://coursera.org/share/3560e6ba735d7bfe1fb476ab8d6a953f) |
-| **Introduction to Shell Scripting for DevOps** | Coursera | Dec 2024 | [Verify Certificate](https://coursera.org/share/084e801524a8d785af55c6d0a9232fa3) |
-| **Hands-on Linux Commands and Shell Scripting** | IBM (via Coursera) | Dec 2024 | [Verify Certificate](https://coursera.org/share/d29a72481d06c607c580b9b062f6ab9c) |
-| **Linux: I/O Redirection for DevOps** | Coursera | Dec 2024 | [Verify Certificate](https://coursera.org/share/a11f827b3e4751e3073a051283f2db63) |
-| **Introduction to Quantum Computing** | QCS Phil | Sept 2024 | [Verify Certificate](https://verified.sertifier.com/en/verify/19097390862687/) |
-
----
 ## Connect With Me
 * Email: cuadravan@gmail.com
 * LinkedIn: www.linkedin.com/in/vankristiancuadra
