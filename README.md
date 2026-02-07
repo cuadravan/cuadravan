@@ -19,47 +19,6 @@ Firmware Engineer specializing in the low-level bridge between hardware and soft
 
 ---
 
-## 🧠 Tenets of My Craft 
-
-#### **A. Software Development**
-
-* **Cross Platform App Development** – Windows and Android applications using a single `.NET MAUI` codebase.
-* **API Backend Server Development** – RESTful API development using `ASP.NET Core Web API`.
-* **Web Development** – Fundamental frontend exercises using `HTML, CSS, JavaScript`, and `Angular`.
-* **Other/Desktop App Development** – Additional frameworks I’ve worked with: `PySide6`, `Java Swing`, `WinForms`.
-
-#### **B. Cloud & DevOps**
-
-* **CI/CD & Cloud Deployment** – Automated backend API deployment using `GitHub Actions` targeting `Azure App Service`.
-* **GIS & Cloud Data Mining** – Querying and processing cloud-native geospatial datasets on `Google Earth Engine` using `Python`-based workflows for urban management analysis.
-
-#### **C. Embedded Systems, Low-Level Programming, and Hardware Design**
-
-* **Embedded Systems & Robotics** – Developed autonomous sprayer robot software on `Raspberry Pi 4`, and a line-following robot with color detection using `PIC16F877A`.
-* **Operating Systems Concepts** – `C` implementations of CPU scheduling algorithms, dining philosophers, and producer–consumer synchronization problems.
-* **8086 Assembly** – Low-level register and memory manipulation using `Intel 8086 assembly language`.
-* **Power Electronics** – Designed and built a `multi-rail AC-to-DC power supply` with fixed (5V, 8V) and variable outputs using `78XX/LM317 regulators` and a `12-0-12 center-tapped transformer`.
-* **Digital Logic Design** – Experience with `VHDL (Intel Quartus Prime)` simulation and `physical 74-series logic gate` circuit implementation through manual Boolean simplification.
-
-#### **D. IoT and Real-Time Systems**
-
-* **Full-Stack IoT Integration** – Built a real-time monitoring system using `Flask-SocketIO` and `Raspberry Pi` to stream and visualize sensor telemetry via `WebSockets`.
-* **Edge Data Processing** – Applied `Exponentially Weighted Moving Average (EWMA) filtering` at the edge to enhance sensor data accuracy and real-time reliability.
-
-#### **E. AI, Machine Learning, and Data Science**
-
-* **GIS & Deep Learning** – Implemented `U-Net (deep learning model) with TensorFlow` for semantic segmentation and land cover classification.
-* **Face Recognition & Computer Vision** – Face detection and enrollment with adjustable thresholds (HOG-based) using `OpenCV and dlib (CMake-built)`, alongside emotion classification via `Teachable Machine`.
-* **Generative Modeling** – Implemented a `GAN` using `Python and PyTorch`, trained on Pokémon images, abstract art, and cat faces.
-* **Natural Language Processing** – Trained a sentiment analyzer in `Python` using the `Sentiment140 Dataset`.
-* **Graph Theory & Network Analysis** – Constructed relationship networks from the `IMDB dataset` using `NetworkX` and `Gephi`.
-
-#### **F. Algorithms and Problem-Solving**
-
-* **Algorithm & DSA Practice** – Continuous problem-solving on `LeetCode` to strengthen data structures, algorithms, and computational thinking.
-
----
-
 ## 📜 Featured Works
 
 | Project | Tech Stack | Highlights |
@@ -69,6 +28,43 @@ Firmware Engineer specializing in the low-level bridge between hardware and soft
 | **[Line Follower with Color Detection](https://github.com/cuadravan/pic16f877a-line-follower-color-detection)** | C, PIC16F877A, Embedded | Interrupt-driven color sensing (CCP1); custom PWM motor control with kickstart; real-time "Bang-Bang" navigation. |
 
 > *With the deep focus brought by the solitude in liminality, I build systems that work: from hardware to software and everything in between.*
+
+---
+
+## 🛠️ Technical Competencies
+
+### **A. Software & Web Development**
+
+* **Cross-Platform:** Single-codebase Windows/Android apps via **.NET MAUI**.
+* **Backend & API:** RESTful services with **ASP.NET Core Web API**.
+* **Frontend:** Web fundamentals using **Angular, JS, and HTML/CSS**.
+* **Desktop:** UI development with **PySide6, Java Swing, and WinForms**.
+
+### **B. Cloud, DevOps & GIS**
+
+* **CI/CD:** Automated deployment via **GitHub Actions** to **Azure App Service**.
+* **Geospatial:** Large-scale data mining on **Google Earth Engine** using **Python**.
+
+### **C. Embedded & Hardware Engineering**
+
+* **Robotics:** Autonomous systems on **Raspberry Pi 4** and **PIC16F877A**.
+* **Low-Level:** **8086 Assembly** and **C-based** OS synchronization/scheduling.
+* **Hardware:** Multi-rail AC-DC power supply design and **VHDL** logic simulation.
+
+### **D. IoT & Real-Time Systems**
+
+* **Integration:** Real-time telemetry via **WebSockets (Flask-SocketIO)**.
+* **Edge Computing:** Data optimization using **EWMA filtering** for sensor accuracy.
+
+### **E. AI, Vision & Data Science**
+
+* **Computer Vision:** Semantic segmentation (**U-Net/TensorFlow**) and **OpenCV/dlib** face detection.
+* **Generative AI:** Trained **GANs** using **PyTorch** for image synthesis.
+* **Analysis:** Sentiment analysis (**NLP**) and network visualization (**NetworkX/Gephi**).
+
+### **F. Algorithms**
+
+* **Problem Solving:** Active **LeetCode** practitioner focused on DSA and computational efficiency.
 
 ---
 
