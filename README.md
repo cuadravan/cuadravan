@@ -1,7 +1,7 @@
 # Van Kristian Cuadra | Firmware Engineer
 
 * **Currently:** Starting out by specializing in Firmware, focusing on the synergy of hardware and low-level code.
-* **Background:** BSCpE (University-wide Rank 1 and Magna Cum Laude, USJ-R)
+* **Background:** BSCpE (Top Graduate and Magna Cum Laude, USJ-R)
 * **Creative:** Books, rhythm games, and music
 
 ---
