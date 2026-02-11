@@ -1,5 +1,7 @@
 # Van Kristian Cuadra | Firmware Engineer
 
+I am a Firmware Engineer specializing in the low-level bridge between hardware and software. I bring devices to life with C, embedded systems, and real-time logic, while also building full-stack applications with .NET and cloud platforms.
+
 * **Currently:** Starting out by specializing in Firmware, focusing on the synergy of hardware and low-level code.
 * **Background:** BSCpE (Top Graduate and Magna Cum Laude, USJ-R)
 * **Creative:** Books, rhythm games, and music
