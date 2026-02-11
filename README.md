@@ -1,6 +1,8 @@
 # Van Kristian Cuadra
 
-I currently work as a Firmware Engineer, focused more on programming nearest the metal. But I have also built full-stack cross-platform applications using .NET, cloud & CI/CD platforms.
+I currently work as a Firmware Engineer, focused more on programming nearest the metal.  
+
+I have a background in developing firmware for autonomous robotics and built full-stack cross-platform applications using .NET, cloud services, and CI/CD workflows. Check out my featured works below.
 
 * **Currently:** Starting out my career by specializing in Firmware Engineering
 * **Background:** BSCpE (Top Graduate and Magna Cum Laude, USJ-R)
