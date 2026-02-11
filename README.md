@@ -2,7 +2,7 @@
 
 I currently work as a Firmware Engineer, focused more on programming nearest the metal.  
 
-I have a background in developing firmware for autonomous robotics and built full-stack cross-platform applications using .NET, cloud services, and CI/CD workflows. Check out my featured works below.
+I specialize in bridging the gap between hardware and software, with a background ranging from autonomous robotics firmware to full-stack .NET applications, cloud services, and CI/CD workflows. Check out my featured works below.
 
 * **Currently:** Starting out my career by specializing in Firmware Engineering
 * **Background:** BSCpE (Top Graduate and Magna Cum Laude, USJ-R)
