@@ -2,7 +2,7 @@
 
 I currently work as a Firmware Engineer, focused more on programming nearest the metal.  
 
-I specialize in bridging the gap between hardware and software, with a background ranging from **assembly programming, OS kernel simulation, and autonomous robotics firmware** to **full-stack .NET applications, cloud services, and CI/CD workflows**. These are found in my featured works and pinned repositories below.
+I have a strong passion for exploring and comprehending the full spectrum of computer abstraction, with a background ranging from **assembly programming, OS kernel simulation, and autonomous robotics firmware** to **full-stack .NET applications, cloud services, and CI/CD workflows**. These are found in my featured works and pinned repositories below.
 
 * **Currently:** Starting out my career by specializing in Firmware Engineering
 * **Background:** BSCpE (Top Graduate and Magna Cum Laude, USJ-R)
