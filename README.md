@@ -20,5 +20,5 @@ I specialize in bridging the gap between hardware and software, with a backgroun
 | Project | Tech Stack | Highlights |
 | --- | --- | --- |
 | **[Project Linkage App](https://github.com/cuadravan/PLinkage)** | 	.NET MAUI, ASP.NET Core, Azure App Service, MongoDB Atlas, GitHub Actions | Clean Architecture; ~80% cross-platform code reuse; CI/CD with GitHub Actions; Domain-Driven API. |
-| **[Autonomous Sprayer Robot](https://github.com/cuadravan/raspi-pesticide-sprayer-robot)** | 	Python, Raspberry Pi 4, GPIO | Robotics software lead; autonomous navigation & spraying; field-tested prototype contributed to 1st Runner-up finish. |
-| **[Line Follower with Color Detection](https://github.com/cuadravan/pic16f877a-line-follower-color-detection)** | C, PIC16F877A, Embedded | Interrupt-driven color sensing (CCP1); custom PWM motor control with kickstart; real-time "Bang-Bang" navigation. |
+| **[Autonomous Sprayer Robot](https://github.com/cuadravan/raspi-pesticide-sprayer-robot)** | 	Python, Raspberry Pi 4 | Robotics software lead; autonomous navigation & spraying; field-tested prototype contributed to 1st Runner-up finish. |
+| **[Line Follower with Color Detection](https://github.com/cuadravan/pic16f877a-line-follower-color-detection)** | C, PIC16F877A | Interrupt-driven color sensing (CCP1); custom PWM motor control with kickstart; real-time "Bang-Bang" navigation. |
