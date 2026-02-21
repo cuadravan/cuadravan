@@ -1,6 +1,6 @@
 # Van Kristian Cuadra
 
-I am currently focused on building as much **domain knowledge and expertise** of firmware engineering within the printing solutions industry.
+I am currently focused on building as much **domain knowledge and expertise** on firmware engineering within the printing solutions industry.
 
 I have a strong passion for exploring and comprehending the full spectrum of computer abstraction, with a background ranging from **OS kernel simulation and autonomous robotics firmware** to **full-stack .NET applications, cloud services, and CI/CD workflows**. These are found in my featured works and pinned repositories below.
 
