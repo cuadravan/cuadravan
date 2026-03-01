@@ -11,7 +11,7 @@ I have a strong passion for exploring and comprehending the full spectrum of com
 ---
 
 ## 🛡️ My Tech Badge Case
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,py,mysql,html,css,js,ts,dotnet,angular,qt,visualstudio,git,github,figma,azure,gcp,githubactions,mongodb,sqlite,arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,java,py,html,css,js,ts,dotnet,angular,qt,visualstudio,vscode,git,github,githubactions,azure,gcp,mysql,mongodb,sqlite,figma,arduino,raspberrypi)](https://skillicons.dev)
 
 ### 🧠 Currently Learning 
 [![Currently Learning](https://skillicons.dev/icons?i=cpp,linux,ubuntu,bash,vim,rust,gitlab)](https://skillicons.dev)
