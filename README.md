@@ -1,8 +1,8 @@
 # Van Kristian Cuadra
 
-I am currently focused on building as much **domain knowledge and expertise** on firmware engineering within the printing solutions industry.
+I am passionate about exploring the intersection between hardware and software, with a dedicated focus on building domain expertise in **low-level embedded software development and RTOS integration**.
 
-I have a strong passion for exploring and comprehending the full spectrum of computer abstraction, with a background ranging from **8086 assembly, OS kernel simulation, and autonomous robotics firmware** to **full-stack .NET applications, cloud services, and CI/CD workflows**. These are found in my featured works and pinned repositories below.
+My background ranges from **8086 assembly, OS kernel simulation, and autonomous robotics firmware** to **full-stack .NET applications, cloud services, and CI/CD workflows**. These are found in my featured works and pinned repositories below.
 
 * **Currently:** Starting out my career by specializing in Firmware Engineering at an R&D company
 * **Background:** BSCpE (Top Graduate and Magna Cum Laude, USJ-R)
