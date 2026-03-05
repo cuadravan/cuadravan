@@ -1,6 +1,6 @@
 # Van Kristian Cuadra
 
-I am passionate about exploring the intersection between hardware and software, with a dedicated focus on building domain expertise in **embedded software development and RTOS integration**.
+I am passionate about exploring the intersection between hardware and software, with a dedicated focus on building domain expertise in **embedded software development**.
 
 My background ranges from **8086 assembly, OS kernel simulation, and autonomous robotics firmware** to **full-stack .NET applications, cloud services, and CI/CD workflows**. These are found in my featured works and pinned repositories below.
 
