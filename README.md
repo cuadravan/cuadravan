@@ -11,10 +11,10 @@ My background ranges from **8086 assembly, OS kernel simulation, and autonomous 
 ---
 
 ## 🛡️ My Tech Badge Case
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,py,html,css,js,ts,dotnet,angular,qt,visualstudio,vscode,git,github,githubactions,azure,gcp,mysql,mongodb,sqlite,figma,arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,java,py,html,css,js,ts,dotnet,angular,qt,visualstudio,vscode,git,github,githubactions,azure,gcp,mysql,mongodb,sqlite,figma,arduino,raspberrypi,anaconda,opencv)](https://skillicons.dev)
 
 ### 🧠 Currently Learning 
-[![Currently Learning](https://skillicons.dev/icons?i=cpp,linux,ubuntu,bash,vim,rust,gitlab)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=cpp,linux,ubuntu,bash,vim,rust,gitlab,cmake,docker)](https://skillicons.dev)
 
 ---
 
