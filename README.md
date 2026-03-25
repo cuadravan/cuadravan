@@ -10,11 +10,24 @@ My background ranges from **8086 assembly, OS kernel simulation, and autonomous 
 
 ---
 
-## 🛡️ My Tech Badge Case
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,py,html,css,js,ts,dotnet,angular,qt,visualstudio,vscode,git,github,githubactions,azure,gcp,mysql,mongodb,sqlite,figma,arduino,raspberrypi,anaconda,opencv)](https://skillicons.dev)
+## ⚙️ My Tech Stack
+### 🚀 Languages
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,rust,py,java,js,ts)](https://skillicons.dev)
 
-### 🧠 Currently Learning 
-[![Currently Learning](https://skillicons.dev/icons?i=cpp,linux,ubuntu,bash,vim,rust,gitlab,cmake,docker)](https://skillicons.dev)
+### 🖼️ Frameworks & Frontend
+[![Frameworks & Frontend](https://skillicons.dev/icons?i=dotnet,qt,angular,html,css)](https://skillicons.dev)
+
+### 📟 Embedded & Systems
+[![Embedded & Systems](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,bash)](https://skillicons.dev)
+
+### ☁️ Cloud, DevOps & CI/CD
+[![Cloud & DevOps](https://skillicons.dev/icons?i=azure,gcp,docker,git,github,githubactions,gitlab,cmake)](https://skillicons.dev)
+
+### 🗄️ Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
+
+### 🛠️ Development Tools & Others
+[![Tools & Others](https://skillicons.dev/icons?i=visualstudio,vscode,vim,anaconda,opencv,figma)](https://skillicons.dev)
 
 ---
 
