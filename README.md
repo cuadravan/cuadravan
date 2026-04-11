@@ -4,9 +4,9 @@ I am passionate about exploring the intersection between hardware and software, 
 
 My educational background ranges from **8086 assembly, OS kernel simulation, and autonomous robotics firmware** to **full-stack .NET applications, cloud services, and CI/CD workflows**. These are found in my featured works and pinned repositories below.
 
-* **Currently:** Starting my career as a Firmware Engineer at an R&D company, focusing on **Linux development environments**, **Embedded Linux (Yocto Project)**, and programming in **C/C++ and Rust** for embedded systems.
-* **Background:** BSCpE (Top Graduate and Magna Cum Laude, USJ-R)
-* **Beyond the code:** I enjoy books, poetry, rhythm games, drumming, and music
+* **Currently:** Starting my career as a **Firmware Engineer at an R&D company**, focusing on **Linux development environments**, **Embedded Linux (Yocto Project)**, and programming in **C/C++ and Rust** for embedded systems.
+* **Background:** BSCpE (_Top Graduate/Rank 1_ and _Magna Cum Laude_, USJ-R)
+* **Beyond the code:** I enjoy books, writing poetry, rhythm games, drumming, and music
 
 ---
 
