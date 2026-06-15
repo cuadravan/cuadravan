@@ -6,7 +6,7 @@ My educational background ranges from **8086 assembly, OS kernel simulation, and
 
 * **Currently:** Starting my career as a **Firmware Engineer at an R&D company**, focusing on **Linux development environments**, **Embedded Linux (Yocto Project)**, and programming in **C/C++ and Rust** for embedded systems.
 * **Background:** BSCpE (_Top Graduate/Rank 1_ and _Magna Cum Laude_, USJ-R)
-* **Beyond the code:** I enjoy books, writing poetry, rhythm games, drumming, and music
+* **Beyond the code:** I enjoy reading books, writing poetry, playing rhythm games, drumming, and jamming to music.
 
 ---
 
